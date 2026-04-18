@@ -48,14 +48,6 @@ const movies = [
     poster: ""
   },
   {
-    name: "HIT: The 3rd Case",
-    genre: "thriller",
-    OTT: "Netflix",
-    synopsis: "The Homicide Intervention Team (HIT) sends ruthless police officer Arjun Sarkaar to find a group of killers and stop their grisly murder spree.",
-    stars: "Nani, Karthi, Adivi Sesh",
-    poster: ""
-  },
-  {
     name: "K-Ramp",
     genre: "comedy",
     OTT: "Prime Video",
@@ -105,7 +97,7 @@ const movies = [
   },
   {
     name: "Bhadrakali",
-    genre: "thriller",
+    genre: "action",
     OTT: "Jio Hotstar",
     synopsis: "A bold fighter of the people challenges a merciless titan, sparking a wave of justice, uprising, and vengeance.",
     stars: "Vinod Anand, Vijay Antony, Kannan Arunachalam",
@@ -249,7 +241,7 @@ const movies = [
   },
   {
     name: "Paanch Minar",
-    genre: "thriller",
+    genre: "action",
     OTT: "Prime Video",
     synopsis: "After a tragedy at his father's party, Chotu inherits a action empire and discovers betrayal.",
     stars: "Nithin Prasanna, Raj Tarun, Rashi Singh",
@@ -313,7 +305,7 @@ const movies = [
   },
   {
     name: "Lucky Baskhar",
-    genre: "thriller",
+    genre: "action",
     OTT: "Netflix",
     synopsis: "A cash-strapped cashier working at a bank embarks on a risky investment scheme and soon gets drawn into the murky world of money laundering.",
     stars: "Dulquer Salmaan Meenaakshi Chaudhary Tinnu Anand",
@@ -357,14 +349,6 @@ const movies = [
     OTT: "Netflix",
     synopsis: "An Indian man seeking work follows a job lead to Saudi Arabia, only to find himself forced to labor without pay as a goat herder in the remote desert.",
     stars: "Prithviraj Sukumaran Jimmy Jean-Louis K.r. Gokul",
-    poster: ""
-  },
-  {
-    name: "Amaran",
-    genre: "romance",
-    OTT: "Netflix",
-    synopsis: "The life of Major Mukund Varadarajan and is set against the backdrop of the Qazipathri Operation in Shopian, Kashmir, which took place back in 2014.",
-    stars: "Sivakarthikeyan Sai Pallavi Bhuvan Arora",
     poster: ""
   },
   {
@@ -585,7 +569,7 @@ const movies = [
   },
   {
     name: "Virupaksha",
-    genre: "thriller",
+    genre: "horror",
     OTT: "Netflix",
     synopsis: "When a man visits his ancestral village, where terror reigns after a chain of unexplained deaths, he must unravel mystical secrets before it's too late.",
     stars: "Sai Dharam Tej Samyuktha Menon Sunil",
@@ -1648,14 +1632,6 @@ const movies = [
     poster: ""
   },
   {
-    name: "A Aa",
-    genre: "romance",
-    OTT: "Zee5 / Jio Hotstar",
-    synopsis: "Anasuya Ramalingam falls in love with her cousin Anand Vihari and how they deal with their family differences.",
-    stars: "Nithiin Samantha Ruth Prabhu Anupama Parameswaran",
-    poster: ""
-  },
-  {
     name: "Srirastu Subhamastu",
     genre: "romance",
     OTT: "Aha",
@@ -1776,14 +1752,6 @@ const movies = [
     poster: ""
   },
   {
-    name: "Cinema Chupista Maava",
-    genre: "romance",
-    OTT: "Zee5 / Jio Hotstar",
-    synopsis: "Kaththi(Raj Tarun) is a careless youth who spends his life without any goal. One fine day, he falls in love with a Bengali girl named Parineetha(Avika Gor) and her father has some conditions for him to marry her daughter.",
-    stars: "Mahesh Achanta Mahaboob Basha Brahmanandam",
-    poster: "https://upload.wikimedia.org/wikipedia/en/8/8c/Cinema_Choopistha_Mava.jpg"
-  },
-  {
     name: "Kerintha",
     genre: "romance",
     OTT: "Jio Hotstar / Sun NXT",
@@ -1857,7 +1825,7 @@ const movies = [
   },
   {
     name: "Lokah Chapter 1: Chandra",
-    genre: "thriller",
+    genre: "action",
     OTT: "Netflix / Jio Hotstar",
     synopsis: "a Malayalam dark fantasy superhero film focusing on Chandra (Kalyani Priyadarshan), a mysterious woman with supernatural abilities ope bengaluru.",
     stars: "Kalyani Priyadarshan Naslen Sandy Chandu Salim Kumar Arun Kurian",
@@ -2065,7 +2033,7 @@ const movies = [
   },
   {
     name: "Nunakuzhi",
-    genre: "thriller",
+    genre: "comedy",
     OTT: "Zee5",
     synopsis: "A young man caught in a web of lies and mistaken identities.",
     stars: "Basil JosephGrace AntonyManoj K. Jayan",
@@ -2265,7 +2233,7 @@ const movies = [
   },
   {
     name: "Trance",
-    genre: "thriller",
+    genre: "action",
     OTT: "Prime Video / Aha",
     synopsis: "A disheartened motivational speaker gets hired by a corporate to become a preacher until his live stint on television puts him and his service under the scanner.",
     stars: "Fahadh FaasilGautham Vasudev MenonChemban Vinod Jose",
@@ -2662,5 +2630,21 @@ const movies = [
     synopsis: "Three Kerala Police officers venture into a mysterious forest on the Kerala-Tamil Nadu border to find a missing officer. They encounter strange time-related phenomena, uncovering the hidden secrets of Velloorkkatt forest.",
     stars: "Neethu KrishnaAskar AliSidharth Bharathan",
     poster: "https://m.media-amazon.com/images/M/MV5BZGNmODVmOTMtYzU0OC00MGY1LWIxZTAtMTQ1NzEzYjk2ODRmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    name: "Drushyam",
+    genre: "thriller",
+    OTT: "Sun NXT",
+    synopsis: "Rambabu (Venkatesh Daggubati), a cable operator, tries to protect his family from paying the price for their accidental crime.",
+    stars: "Venkatesh Daggubati Meena Nadia Moidu",
+    poster: "https://sund-images.sunnxt.com/7634/1000x1500_Drushyam_7634_5309c86d-4d98-46db-9daa-b8477a9364c6.jpg"
+  },
+  {
+    name: "Youth",
+    genre: "comedy",
+    OTT: "Netflix",
+    synopsis: "15-year-old Praveen enters adolescence determined to find true love before school ends. Through relationships and heartbreaks, he discovers love's real meaning, shaping his maturity and outlook on life.",
+    stars: "Ken KarunasSuraj Venjaramoodu Devadarshini Chetan",
+    poster: "https://m.media-amazon.com/images/M/MV5BNDZmZTlmNDAtZGM4MS00MmVkLWEzMjEtMmNlOWI0ZjIzYzlhXkEyXkFqcGc@._V1_.jpg"
   },
 ];
