@@ -2647,4 +2647,12 @@ const movies = [
     stars: "Ken KarunasSuraj Venjaramoodu Devadarshini Chetan",
     poster: "https://m.media-amazon.com/images/M/MV5BNDZmZTlmNDAtZGM4MS00MmVkLWEzMjEtMmNlOWI0ZjIzYzlhXkEyXkFqcGc@._V1_.jpg"
   },
+  {
+    name: "Toaster",
+    genre: "comedy",
+    OTT: "Netflix",
+    synopsis: "Murder and chaos erupt when a miser becomes obsessed with a toaster he gave as a wedding gift.",
+    stars: "Rajkummar RaoSanya Malhotra Archana Puran Singh",
+    poster: "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Toaster_film_poster.jpg/250px-Toaster_film_poster.jpg"
+  },
 ];
