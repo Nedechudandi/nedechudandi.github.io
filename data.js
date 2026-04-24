@@ -2661,6 +2661,6 @@ const movies = [
     OTT: "SonyLIV",
     synopsis: "A Child vanishes from a hospital. A hospital attendant becomes the prime suspect and goes on the run while others search for the missing girl.",
     stars: "Nivin PaulyLijo Mol Jose Sangeeth Prathap",
-    poster: "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Baby_Girl_poster.jpg/250px-Baby_Girl_poster.jpg"
+    poster: "https://assets.voxcinemas.com/posters/P_HO00012874_1768562421100.jpg"
   },
 ];
