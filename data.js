@@ -2660,7 +2660,15 @@ const movies = [
     genre: "thriller",
     OTT: "SonyLIV",
     synopsis: "A Child vanishes from a hospital. A hospital attendant becomes the prime suspect and goes on the run while others search for the missing girl.",
-    stars: "Nivin PaulyLijo Mol Jose Sangeeth Prathap",
+    stars: "Nivin Pauly Lijo Mol Jose Sangeeth Prathap",
     poster: "https://assets.voxcinemas.com/posters/P_HO00012874_1768562421100.jpg"
+  },
+  {
+    name: "The Kerala Story 2 Goes Beyond",
+    genre: "drama",
+    OTT: "Zee 5",
+    synopsis: "Three young Indian women across different states choose love over tradition, only to become trapped. Their parallel lives show how romance and rebellion transform into control and silence, turning love into a weapon that destroys freedom.",
+    stars: "Ulka Gupta Aishwarya Ojha Aditi Bhatia",
+    poster: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/The_Kerala_Story_2.jpeg/250px-The_Kerala_Story_2.jpeg"
   },
 ];
