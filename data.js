@@ -2671,4 +2671,12 @@ const movies = [
     stars: "Ulka Gupta Aishwarya Ojha Aditi Bhatia",
     poster: "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/The_Kerala_Story_2.jpeg/250px-The_Kerala_Story_2.jpeg"
   },
+  {
+    name: "Swapped",
+    genre: "drama",
+    OTT: "Netflix",
+    synopsis: "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
+    stars: "Micheal B jhordan",
+    poster: ""
+  },
 ];
