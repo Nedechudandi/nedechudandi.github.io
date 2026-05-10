@@ -2677,6 +2677,14 @@ const movies = [
     OTT: "Netflix",
     synopsis: "A tiny woodland creature and a majestic bird suddenly swap bodies, forcing them to team up to survive the wildest adventure of their lives.",
     stars: "Micheal B jhordan",
-    poster: ""
+    poster: "https://cdn.movieguide.org/wp-content/uploads/2026/05/swapped.jpg"
+  },
+  {
+    name: "Vaazha II: Biopic of a Billion Bros",
+    genre: "drama",
+    OTT: "Jio Hotstar",
+    synopsis: "Four friends labeled as losers and troublemakers embark on an emotional journey of self-discovery as they face mounting social pressure. They learn to embrace their responsibilities and find success on their own terms.",
+    stars: "HashirAlan bin SirajAjin Joy",
+    poster: "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vaazha-2-biopic-of-a-billion-bros-et00493207-1776839235.jpg"
   },
 ];
