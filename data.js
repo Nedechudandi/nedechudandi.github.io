@@ -2687,4 +2687,12 @@ const movies = [
     stars: "HashirAlan bin SirajAjin Joy",
     poster: "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vaazha-2-biopic-of-a-billion-bros-et00493207-1776839235.jpg"
   },
+  {
+    name: "Dhurandhar: The Revenge",
+    genre: "action",
+    OTT: "Jio Hotstar",
+    synopsis: "Jaskirat Singh Rangi descends deeper into his alias as Hamza Ali Mazari, rising through Karachi's criminal hierarchy to claim the feared title "Sher-e-Baloch" while balancing loyalty, betrayal, and survival in a ruthless underworld.",
+    stars: "Ranveer Singh Akshaye Khanna Sanjay Dutt Madhavan",
+    poster: "https://m.media-amazon.com/images/M/MV5BNzdkNjAxNWMtNWY3My00NTI1LTg2YWQtOGI3MDA0NzdhMjEyXkEyXkFqcGc@._V1_.jpg"
+  },
 ];
