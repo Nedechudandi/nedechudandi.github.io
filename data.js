@@ -2693,6 +2693,6 @@ const movies = [
     OTT: "Prime Video",
     synopsis: "Follows Indians facing challenges while trying to travel to the USA and the struggles they encounter after reaching there",
     stars: "Tharun Bhaskar, Faria Adbulla, Manasa Choudhary, Kashyap, Shubhalekha Sudhakar, Harsha vardhan",
-    poster: ""
+    poster: "https://www.imdb.com/title/tt39708015/"
   },
 ];
