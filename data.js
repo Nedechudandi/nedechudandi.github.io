@@ -2684,7 +2684,15 @@ const movies = [
     genre: "drama",
     OTT: "Jio Hotstar",
     synopsis: "Four friends labeled as losers and troublemakers embark on an emotional journey of self-discovery as they face mounting social pressure. They learn to embrace their responsibilities and find success on their own terms.",
-    stars: "HashirAlan bin SirajAjin Joy",
+    stars: "Hashir Alan bin Siraj Ajin Joy",
     poster: "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/vaazha-2-biopic-of-a-billion-bros-et00493207-1776839235.jpg"
+  },
+  {
+    name: "Gaayapadda Simham",
+    genre: "comedy",
+    OTT: "Prime Video",
+    synopsis: "Follows Indians facing challenges while trying to travel to the USA and the struggles they encounter after reaching there",
+    stars: "Tharun Bhaskar, Faria Adbulla, Manasa Choudhary, Kashyap, Shubhalekha Sudhakar, Harsha vardhan",
+    poster: ""
   },
 ];
