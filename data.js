@@ -2695,4 +2695,20 @@ const movies = [
     stars: "Tharun Bhaskar, Faria Adbulla, Manasa Choudhary, Kashyap, Shubhalekha Sudhakar, Harsha vardhan",
     poster: "https://www.cinejosh.com/newsimg/newsmainimg/gayapadda-simham_b_0602260652.jpg"
   },
+  {
+    name: "Vash",
+    genre: "horror",
+    OTT: "Shemaroo",
+    synopsis: "Atharva, a family man, takes his family for a vacation and unfortunately gets trapped in black magic by a stranger named Pratap.",
+    stars: "Hiten Kumar Hitu Kanodia Janki Bodiwala",
+    poster: "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Vash_film_poster.jpg/250px-Vash_film_poster.jpg"
+  },
+  {
+    name: "Vash Level 2",
+    genre: "horror",
+    OTT: "Netflix",
+    synopsis: "Twelve years after saving his daughter Arya from a dark force, Atharva learns it never left her. When strange events begin again, he must fight to save her once more.",
+    stars: "Janki Bodiwala Hitu Kanodia Hiten Kumar",
+    poster: "https://upload.wikimedia.org/wikipedia/en/2/2b/Official_Poster_of_Vash_Level_2.jpg"
+  },
 ];
