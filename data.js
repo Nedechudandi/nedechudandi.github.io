@@ -2711,4 +2711,12 @@ const movies = [
     stars: "Janki Bodiwala Hitu Kanodia Hiten Kumar",
     poster: "https://upload.wikimedia.org/wikipedia/en/2/2b/Official_Poster_of_Vash_Level_2.jpg"
   },
+  {
+    name: "Veerabhadrudu",
+    genre: "action",
+    OTT: "Prime Video",
+    synopsis: "When injustice is rising high Karuppu saamy himself appears to fight for justice with the unlawful people.",
+    stars: "Suriya RJ Balaji Trisha Krishnan",
+    poster: "https://cdn.district.in/movies-assets/images/cinema/Veerabhadrudu_Poster-469dfc70-31d5-11f1-ba3e-1d29e02a5f0e.jpg?im=Resize,width=400"
+  },
 ];
