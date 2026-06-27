@@ -2719,4 +2719,12 @@ const movies = [
     stars: "Suriya RJ Balaji Trisha Krishnan",
     poster: "https://cdn.district.in/movies-assets/images/cinema/Veerabhadrudu_Poster-469dfc70-31d5-11f1-ba3e-1d29e02a5f0e.jpg?im=Resize,width=400"
   },
+  {
+    name: "The Sheep Detectives",
+    genre: "drama",
+    OTT: "Prime Video",
+    synopsis: "Every night a shepherd reads aloud a murder mystery, pretending his sheep can understand. When he is found dead, the sheep realize at once that it was a murder and think they know everything about how to go about solving it.",
+    stars: "Hugh Jackman, Bread Goldstein",
+    poster: "https://www.bytowne.ca/movies/the-sheep-detectives/"
+  },
 ];
