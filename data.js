@@ -2727,4 +2727,12 @@ const movies = [
     stars: "Hugh Jackman, Bread Goldstein",
     poster: ""
   },
+  {
+    name: "Obsession",
+    genre: "horror",
+    OTT: "Netflix",
+    synopsis: "After breaking the mysterious One Wish Willow to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for, but he soon discovers that some desires come at a dark, sinister price.",
+    stars: "Michael Johnston, inde naverette",
+    poster: ""
+  },
 ];
