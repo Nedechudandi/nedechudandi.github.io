@@ -2735,4 +2735,12 @@ const movies = [
     stars: "Michael Johnston, inde naverette",
     poster: ""
   },
+  {
+    name: "Mollywood Times",
+    genre: "comedy",
+    OTT: "Jio hotstar",
+    synopsis: "A young aspiring filmmaker dreams of becoming Malayalam cinema's greatest horror director, determined to save the industry despite his father's warnings about the limitations of their film world",
+    stars: "Naslen, Basil Joseph, Vineeth srinivasan",
+    poster: ""
+  },
 ];
