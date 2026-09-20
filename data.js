@@ -2743,4 +2743,12 @@ const movies = [
     stars: "Naslen, Basil Joseph, Vineeth srinivasan",
     poster: ""
   },
+  {
+    name: "Modha Rathiri",
+    genre: "drama",
+    OTT: "Netflix",
+    synopsis: "Follows two strangers brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+    stars: "Anishwa anilkumar, Raja kumarappan",
+    poster: ""
+  }
 ];
