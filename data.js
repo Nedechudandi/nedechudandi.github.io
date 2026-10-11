@@ -2750,5 +2750,13 @@ const movies = [
     synopsis: "Follows two strangers brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
     stars: "Anishwa anilkumar, Raja kumarappan",
     poster: ""
+  },
+  {
+    name: "Jessie",
+    genre: "horror",
+    OTT: "Youtube",
+    synopsis: "Set in an abandoned house, the film follows a team of professional ghost hunters trying to conduct a paranormal investigation to unveil the mystery of two sisters, Jessie and Amy, where Amy shows unusual mental and physical behaviour.",
+    stars: "Archana, Atul Kulkarni, Abhinav, Pavani",
+    poster: "https://m.media-amazon.com/images/M/MV5BY2M1Nzk3YjUtYzFmYS00Zjc3LWJkODgtZjE3NmRjMjI4ZmE5XkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg"
   }
 ];
