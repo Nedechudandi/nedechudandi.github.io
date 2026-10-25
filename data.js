@@ -2773,6 +2773,6 @@ const movies = [
     OTT: "Netflix",
     synopsis: "Set in a world shaped by caste, violence, and toxic masculinity, two friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion challenges the world around them.",
     stars: "Karthik Subbaraji, Kirti Suresh, sananth, rishikanth",
-    poster: ""
+    poster: "https://www.district.in/movies/dorothy-movie-tickets-in-chennai-MV230163"
   }
 ];
