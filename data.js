@@ -2758,5 +2758,21 @@ const movies = [
     synopsis: "Set in an abandoned house, the film follows a team of professional ghost hunters trying to conduct a paranormal investigation to unveil the mystery of two sisters, Jessie and Amy, where Amy shows unusual mental and physical behaviour.",
     stars: "Archana, Atul Kulkarni, Abhinav, Pavani",
     poster: "https://m.media-amazon.com/images/M/MV5BY2M1Nzk3YjUtYzFmYS00Zjc3LWJkODgtZjE3NmRjMjI4ZmE5XkEyXkFqcGc@._V1_QL75_UY281_CR6,0,190,281_.jpg"
+  },
+  {
+    name: "Baththa",
+    genre: "drama",
+    OTT: "Netflix",
+    synopsis: "In 1986 Madras, a timid eight-year-old boy accidentally locks a feared criminal inside a school restroom. As the man faces hunger and isolation, an unexpected friendship forms between them, transforming both their lives.",
+    stars: "Vijay Sethupathi, Hari Krishnan",
+    poster: ""
+  },
+  {
+    name: "Dorothy",
+    genre: "drama",
+    OTT: "Netflix",
+    synopsis: "Set in a world shaped by caste, violence, and toxic masculinity, two friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion challenges the world around them.",
+    stars: "Karthik Subbaraji, Kirti Suresh, sananth, rishikanth",
+    poster: ""
   }
 ];
